@@ -14,19 +14,19 @@
 
 ## 📂 Repository Structure
 
-BC_RiskPrediction/
-├── data/
-│ └── dhis.csv # Merged registry extract
-├── models/ # Serialized model artifacts
-├── notebooks/
-│ └── EDA_and_Results.ipynb # Exploratory analysis & dashboards
-├── src/
-│ ├── preprocess.py # Cleaning & feature engineering
-│ ├── train.py # Model training & hyperparameter search
-│ ├── predict.py # Inference & threshold tuning
-│ └── utils.py # Shared helpers (metrics, plotting)
-├── requirements.txt # Python dependencies
-└── README.md # This document
+	BC_RiskPrediction/
+	├── data/
+	│ └── dhis.csv # Merged registry extract
+	├── models/ # Serialized model artifacts
+	├── notebooks/
+	│ └── EDA_and_Results.ipynb # Exploratory analysis & dashboards
+	├── src/
+	│ ├── preprocess.py # Cleaning & feature engineering
+	│ ├── train.py # Model training & hyperparameter search
+	│ ├── predict.py # Inference & threshold tuning
+	│ └── utils.py # Shared helpers (metrics, plotting)
+	├── requirements.txt # Python dependencies
+	└── README.md # This document
 
 
 ---
