@@ -1,0 +1,100 @@
+﻿Person_ID,Has_Breast_Cancer,BIRADS,BIRADS_Desc,Medical Ccenter,Appointment_Date,BMI,Person_Age,Menarch_Age,Menopause_Age,Used_Contraceptives,Chronic_Diseases,MM_D_density,Breast_Cancer_History,Got_Pregnant,Marital_Status
+37*****2517,0,2,Benign,Salfit,7/7/2019,37.1,50,13,NULL,0,1,almost entire fatty tissue,0,1,Married
+23****4144,0,0,Incomplete,South Hebron,2/17/2020,23.1,54,13,52,0,0,Scattered fibro glandular Density,0,0,Married
+30****8610,0,2,Benign,Tulkarm,8/10/2022,30.1,46,13,NULL,0,0,Scattered fibro glandular Density,0,1,Married
+28****9620,0,2,Benign,Salfit,6/15/2020,28.5,52,12,51,0,0,Scattered fibro glandular Density,0,1,Married
+34****0082,0,3,Probably Benign,Tulkarm,10/12/2022,34.6,54,15,NULL,0,0,Scattered fibro glandular Density,0,1,Married
+0****7564,0,0,Incomplete,Bethlehem,5/19/2019,0,50,13,NULL,0,0,Scattered fibro glandular Density,0,1,Married
+0****7846,0,3,Probably Benign,Bethlehem,5/29/2019,0,53,14,NULL,0,0,Scattered fibro glandular Density,0,0,Married
+0****7846,0,3,Probably Benign,Bethlehem,5/29/2019,0,53,14,NULL,0,0,Scattered fibro glandular Density,1,1,Married
+26****8380,0,0,Incomplete,Bethlehem,6/16/2020,26.2,52,16,52,0,0,Extremely Dense,0,1,Married
+0****9586,0,0,Incomplete,Bethlehem,8/6/2019,0,51,14,NULL,0,0,Scattered fibro glandular Density,0,1,Married
+32****1507,0,3,Probably Benign,Tulkarm,8/30/2022,32.7,53,15,NULL,0,0,Extremely Dense,0,1,Married
+0****1915,0,3,Probably Benign,Ram,3/1/2022,0,53,14,NULL,0,0,Scattered fibro glandular Density,0,1,Married
+0****3316,1,6,Biopsy-Proven Malignancy,Ram,12/20/2022,0,53,12,49,0,0,Heterogeneous Dense,1,0,Married
+25****3316,1,1,Negative,Biereh,7/12/2020,25.3,53,12,47,0,0,Scattered fibro glandular Density,1,0,Married
+0****3316,1,6,Biopsy-Proven Malignancy,Ram,12/20/2022,0,53,12,49,0,0,Heterogeneous Dense,1,1,Married
+25****3316,1,1,Negative,Biereh,7/12/2020,25.3,53,12,47,0,0,Scattered fibro glandular Density,1,1,Married
+0****8489,0,0,Incomplete,Ram,5/31/2023,0,53,12,NULL,0,0,Scattered fibro glandular Density,0,1,Married
+24****8056,0,0,Incomplete,Biereh,12/4/2019,2421,47,13,NULL,0,0,Heterogeneous Dense,1,1,Married
+27****1779,0,0,Incomplete,South Hebron,8/31/2020,27.8,46,14,NULL,0,0,Scattered fibro glandular Density,0,1,Married
+31****5304,0,0,Incomplete,Salfit,7/3/2022,31.2,49,13,NULL,0,1,Heterogeneous Dense,0,1,Married
+0****5320,0,1,Negative,Ram,12/1/2022,0,49,14,NULL,1,0,Scattered fibro glandular Density,0,1,Married
+32****7458,0,0,Incomplete,South Hebron,10/1/2020,32.4,47,13,NULL,0,0,Scattered fibro glandular Density,1,1,Married
+0****0080,0,0,Incomplete,Ram,2/9/2021,0,47,12,NULL,0,0,Heterogeneous Dense,0,1,Married
+31****1386,0,2,Benign,Nablus,5/16/2019,31.6,45,13,NULL,0,0,Scattered fibro glandular Density,1,1,Married
+0****2891,0,0,Incomplete,Nablus,8/29/2023,0,50,10,49,0,1,Heterogeneous Dense,0,1,Married
+0****3170,0,3,Probably Benign,Jenin,10/25/2022,0,49,13,NULL,0,0,Scattered fibro glandular Density,0,1,Married
+27****8351,0,1,Negative,Halhul,5/30/2023,27.2,49,13,NULL,1,0,Heterogeneous Dense,0,1,Married
+0****8583,0,3,Probably Benign,Jericho,10/6/2020,0,47,12,NULL,0,0,Scattered fibro glandular Density,1,1,Married
+22****8807,0,2,Benign,Biereh,3/12/2020,22.3,46,13,NULL,0,0,Heterogeneous Dense,0,0,Single
+22****4935,0,2,Benign,Jenin,12/24/2019,22.4,45,19,NULL,0,1,Scattered fibro glandular Density,0,1,Married
+33****8436,0,1,Negative,Salfit,10/22/2020,33.2,49,12,NULL,0,1,almost entire fatty tissue,1,1,Married
+30****8816,0,3,Probably Benign,Jenin,9/7/2020,30.1,49,14,46,0,1,Scattered fibro glandular Density,0,1,Married
+34****2601,0,0,Incomplete,Bethlehem,2/20/2020,34.7,49,13,NULL,0,1,Heterogeneous Dense,0,1,Married
+0****9116,0,0,Incomplete,Bethlehem,9/23/2019,0,38,13,NULL,0,0,Heterogeneous Dense,0,1,Married
+29****0968,0,3,Probably Benign,Jenin,2/3/2022,29.6,51,12,50,0,0,Scattered fibro glandular Density,0,1,Married
+0****6211,0,0,Incomplete,Ram,1/26/2023,0,52,11,NULL,0,0,Scattered fibro glandular Density,0,1,Married
+34****3467,0,0,Incomplete,Bethlehem,11/11/2020,34.8,49,13,49,0,0,Extremely Dense,0,1,Married
+0****8833,0,0,Incomplete,Ram,4/7/2019,0,47,14,43,0,0,Scattered fibro glandular Density,0,1,Married
+28****4202,0,3,Probably Benign,Tulkarm,10/5/2022,28.1,49,13,44,0,1,Scattered fibro glandular Density,0,1,Married
+0****8741,0,2,Benign,Jenin,5/2/2019,0,47,13,NULL,0,0,Scattered fibro glandular Density,0,1,Married
+29****2058,0,3,Probably Benign,Jenin,10/9/2019,29,43,15,NULL,0,0,Scattered fibro glandular Density,1,1,Married
+27****6110,0,1,Negative,Bethlehem,10/12/2020,27.5,45,14,NULL,0,0,Scattered fibro glandular Density,0,1,Married
+0****7503,0,0,Incomplete,Ram,7/28/2020,0,44,15,NULL,0,1,Heterogeneous Dense,0,1,Married
+20****7633,0,1,Negative,Salfit,10/14/2019,20.7,41,12,NULL,0,1,Scattered fibro glandular Density,1,0,Married
+29****0969,0,1,Negative,Biereh,2/13/2020,29.1,45,11,NULL,0,0,Scattered fibro glandular Density,1,1,Married
+0****0969,0,0,Incomplete,Biereh,5/16/2022,0,45,12,NULL,0,0,Scattered fibro glandular Density,1,1,Married
+25****9996,0,0,Incomplete,Halhul,3/14/2023,25.9,45,12,NULL,0,1,Scattered fibro glandular Density,0,1,Married
+29****1943,0,1,Negative,Bethlehem,9/8/2020,29.7,43,14,40,0,1,Scattered fibro glandular Density,0,1,Widowed
+27****5177,0,3,Probably Benign,Jenin,11/14/2019,27.3,42,10,NULL,0,0,Scattered fibro glandular Density,0,1,Married
+0****9014,0,2,Benign,Jenin,10/31/2021,0,44,14,NULL,0,1,almost entire fatty tissue,0,1,Married
+28****4980,0,1,Negative,Ram,3/14/2022,28.1,44,14,NULL,0,0,Scattered fibro glandular Density,1,0,Married
+26****9558,0,1,Negative,Salfit,7/24/2022,26.6,44,15,NULL,0,0,Scattered fibro glandular Density,1,1,Married
+0****0085,0,0,Incomplete,Hebron,10/26/2021,0,43,12,NULL,0,0,Heterogeneous Dense,1,1,Married
+0****7966,0,2,Benign,Nablus,12/12/2023,0,45,13,NULL,0,1,Scattered fibro glandular Density,0,0,Married
+0****4918,0,1,Negative,Hebron,7/17/2022,0,36,12,NULL,0,0,Scattered fibro glandular Density,1,1,Married
+26****8828,0,1,Negative,Jericho,10/16/2019,26.6,41,12,NULL,0,0,almost entire fatty tissue,0,1,Married
+34****9633,0,3,Probably Benign,Jenin,9/18/2019,34.7,40,13,NULL,1,0,Scattered fibro glandular Density,1,1,Married
+25****5545,0,2,Benign,Jenin,6/6/2022,25.3,72,13,45,0,1,Scattered fibro glandular Density,0,1,Widowed
+0****2421,0,0,Incomplete,Ram,4/4/2023,0,43,14,NULL,0,1,Heterogeneous Dense,0,1,Married
+35****9760,0,3,Probably Benign,Tulkarm,2/13/2023,35.8,43,15,NULL,0,0,Scattered fibro glandular Density,1,1,Married
+22****8209,0,0,Incomplete,Jericho,5/31/2020,22.8,40,14,NULL,0,0,Heterogeneous Dense,1,1,Married
+0****8899,0,3,Probably Benign,Ram,2/8/2022,0,41,14,NULL,1,0,Scattered fibro glandular Density,1,1,Married
+30****9617,0,3,Probably Benign,Jenin,12/22/2019,30.3,67,16,50,0,1,Scattered fibro glandular Density,0,1,Widowed
+31****6416,1,1,Negative,Nablus,7/18/2019,31.9,68,16,45,1,0,Scattered fibro glandular Density,0,1,Widowed
+30****6416,1,1,Negative,Tubas,12/1/2021,30.4,68,16,45,0,0,Scattered fibro glandular Density,0,1,Widowed
+27****6416,1,2,Benign,Tubas,12/19/2022,27.6,68,16,45,0,0,Scattered fibro glandular Density,0,1,Widowed
+37****6368,0,2,Benign,Tulkarm,7/4/2022,37.9,62,12,42,0,1,Scattered fibro glandular Density,0,1,Married
+29****5406,0,2,Benign,Nablus,9/8/2019,29.5,55,13,39,0,1,almost entire fatty tissue,1,1,Married
+24**9468,0,2,Benign,Tubas,10/4/2021,24.5,40,16,NULL,0,0,Scattered fibro glandular Density,1,1,Married
+29****8427,0,2,Benign,Tubas,10/21/2021,29.4,56,12,48,1,1,Scattered fibro glandular Density,0,1,Married
+30****8427,0,3,Probably Benign,Jenin,10/6/2019,30.4,56,12,46,1,1,Scattered fibro glandular Density,0,1,Married
+28****3514,0,3,Probably Benign,Jenin,1/5/2020,28.3,53,13,NULL,0,0,Scattered fibro glandular Density,0,1,Married
+22****3270,0,0,Incomplete,Ram,10/22/2023,22.3,41,12,NULL,0,0,Scattered fibro glandular Density,0,0,Married
+0****0592,0,1,Negative,Nablus,10/24/2019,0,36,14,NULL,0,0,Scattered fibro glandular Density,1,1,Married
+0****5256,0,0,Incomplete,Ram,4/27/2020,0,35,15,NULL,0,0,Extremely Dense,0,1,Married
+0****6082,0,2,Benign,Nablus,5/22/2023,0,56,11,50,1,1,almost entire fatty tissue,0,1,Married
+28****6552,0,3,Probably Benign,Bethlehem,1/20/2020,28.6,55,13,NULL,0,0,Scattered fibro glandular Density,0,0,Married
+28****8582,0,1,Negative,Biereh,2/20/2020,28,56,12,45,0,1,Scattered fibro glandular Density,0,1,Widowed
+0****5918,0,3,Probably Benign,Qalqilia,3/7/2022,0,57,12,44,0,1,Scattered fibro glandular Density,0,1,Married
+24****1866,0,0,Incomplete,Biereh,1/26/2020,24.8,65,12,50,0,0,Heterogeneous Dense,0,1,Married
+0****9851,0,0,Incomplete,Hebron,1/13/2020,0,67,15,40,1,0,Scattered fibro glandular Density,0,0,Widowed
+0****0651,0,0,Incomplete,Ram,7/19/2023,0,58,14,40,0,1,Heterogeneous Dense,1,1,Married
+32****1672,0,2,Benign,Bethlehem,1/25/2021,32.3,57,16,45,0,0,Scattered fibro glandular Density,0,1,Married
+25****8513,0,2,Benign,Jericho,11/17/2020,25.3,64,14,48,1,0,Scattered fibro glandular Density,1,1,Divorced
+0****7261,0,2,Benign,Nablus,8/29/2019,0,56,11,NULL,0,1,almost entire fatty tissue,0,0,Married
+23****1099,0,1,Negative,Biereh,11/21/2019,2311,58,12,NULL,0,1,almost entire fatty tissue,1,1,Married
+21****1099,0,1,Negative,Biereh,2/2/2021,21,58,12,46,0,0,almost entire fatty tissue,1,1,Married
+0****3491,0,2,Benign,Hebron,7/6/2021,0,59,12,53,0,0,Scattered fibro glandular Density,0,0,Married
+0****3491,0,2,Benign,Hebron,7/6/2021,0,59,12,53,0,0,Scattered fibro glandular Density,1,1,Married
+25****3809,0,0,Incomplete,Yatta,2/13/2023,25.7,57,14,55,0,1,Scattered fibro glandular Density,1,1,Married
+25****3809,0,0,Incomplete,Yatta,1/31/2023,25.7,57,14,55,0,1,Scattered fibro glandular Density,1,1,Married
+38****2071,0,1,Negative,Bethlehem,11/5/2020,38.4,53,15,52,1,1,Scattered fibro glandular Density,0,1,Married
+0****9910,0,2,Benign,Ram,8/31/2021,0,59,12,52,0,0,Scattered fibro glandular Density,1,1,Married
+0****6021,0,0,Incomplete,Ram,11/5/2019,0,64,13,59,0,1,Scattered fibro glandular Density,0,1,Widowed
+36****2573,0,2,Benign,Halhul,12/17/2020,36,63,14,50,1,0,Scattered fibro glandular Density,0,1,Married
+0****4590,0,1,Negative,Ram,10/14/2019,0,77,12,40,1,1,Scattered fibro glandular Density,1,1,Married
+0****5560,0,0,Incomplete,Hebron,10/18/2021,0,55,12,50,0,0,Scattered fibro glandular Density,0,1,Married
+20****8044,0,3,Probably Benign,Biereh,6/3/2020,20.8,68,12,54,0,1,Scattered fibro glandular Density,1,0,Single
+33****6755,0,0,Incomplete,Hebron,2/4/2020,33.7,60,12,42,0,1,Heterogeneous Dense,1,0,Married

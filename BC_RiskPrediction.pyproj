@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>26fc392d-55f4-4f00-8d48-e1512cce8df9</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>BC_RiskPrediction.py</StartupFile>
+    <StartupFile>main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,15 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="BC_RiskPrediction.py" />
+    <Compile Include="evaluate.py" />
+    <Compile Include="main.py" />
+    <Compile Include="models.py" />
+    <Compile Include="preprocess.py" />
+    <Compile Include="train.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="readme.md" />
+    <Content Include="sample.csv" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
